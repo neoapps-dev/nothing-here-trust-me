@@ -20,7 +20,7 @@ export default defineConfig({
       {
         text: 'Creating an app',
         items: [
-          { text: 'Showing a window', link: '/api/show-window' },
+          { text: 'Showing a window', link: '/api/showing-window' },
         ]
       }
     ],
