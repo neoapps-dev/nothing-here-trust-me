@@ -14,7 +14,7 @@ hero:
       link: /install-mrserver
     - theme: alt
       text: API Documentation
-      link: /api/show-window
+      link: /api/showing-window
     - theme: alt
       text: GitHub
       link: https://github.com/mrserver-org
